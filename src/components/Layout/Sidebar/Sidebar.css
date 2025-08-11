@@ -1,0 +1,22 @@
+/* Sidebar.css */
+
+.sidebar {
+  min-height: 100vh;
+  transition: left 0.3s ease-in-out;
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: -250px; /* Hidden by default */
+    width: 250px;
+    height: 100%;
+    background-color: #f8f9fa;
+    z-index: 1050; /* Above content but below navbar */
+  }
+
+  .sidebar.show {
+    left: 0; /* Slide in */
+  }
+}
