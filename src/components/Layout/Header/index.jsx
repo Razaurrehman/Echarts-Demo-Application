@@ -10,7 +10,7 @@ const Header = ({ toggleSidebar }) => {
         >
           ☰
         </button>
-        <a className="navbar-brand ms-3" href="#">My App</a>
+        <a className="navbar-brand ms-3" href="#">Demo Chat Application</a>
       </div>
     </nav>
   );

@@ -1,0 +1,1622 @@
+[
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1739365200256,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1739451600777,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1739538000777,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1739624400288,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1739710800108,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1739797200363,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1739883600670,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1739970000464,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1740056400331,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1740142800404,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1740229200034,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1740315600034,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1740402000034,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1740488400029,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1740574800312,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1740661200419,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1740747600419,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1740834000250,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1740920400250,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1741006800808,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1741093200630,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1741179600832,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1741266000180,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1741352400444,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1741438800452,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1741525200452,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1741611600452,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1741698000600,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1741784400082,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1741870800370,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1741957200556,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1742043600157,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1742130000157,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1742216400157,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1742302800461,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1742389200975,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1742475600280,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1742562000727,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1742648400727,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1742734800727,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1742821200787,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1742907600787,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1742994000315,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1743080400102,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1743166800533,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1743253200676,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1743339600968,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1743426000054,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1743512400300,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1743598800703,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1743685200811,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1743771600812,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1743858000605,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1743944400605,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 53,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1744030800973,
+        "totalHighPriorityCount": 155,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1744117200935,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1744203600282,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1744290000207,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1744376400014,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1744462800061,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1744549200061,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 20,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1744635600646,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 45,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1744722000819,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1744808400766,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1744894800289,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1744981200363,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1745067600363,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1745154000363,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1745240400363,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 55,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1745326800443,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1745413200889,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 145,
+        "failedLowPriorityCount": 30,
+        "failedMediumPriorityCount": 26,
+        "sampledAt": 1745499600565,
+        "totalHighPriorityCount": 145,
+        "totalLowPriorityCount": 30,
+        "totalMediumPriorityCount": 26
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1745586000568,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 55,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1745672400793,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 55,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1745758800473,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 55,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1745845200473,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1745931600775,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1746018000736,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1746104400864,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1746190800044,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1746277200593,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1746363600593,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1746450000593,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 22,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1746536400243,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1746622800889,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1746709200072,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1746795600611,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1746882000288,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1746968400288,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 56,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1747054800288,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 55,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1747141200288,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 55,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1747227600757,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 55,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1747314000861,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 55,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1747400400646,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 55,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1747486800379,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 55,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1747573200379,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 55,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1747659600379,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 55,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1747746000305,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 55,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1747832400559,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 55,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1747918800625,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 55,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1748005200032,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 55,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1748091600708,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 55,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1748178000708,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 55,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1748264400708,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 55,
+        "failedLowPriorityCount": 21,
+        "failedMediumPriorityCount": 13,
+        "sampledAt": 1748350800179,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1748437200694,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1748523600090,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1748610000090,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1748696400090,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1748782800090,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1748869200954,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1748955600490,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1749042000141,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1749128400044,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 27,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1749214800102,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1749301200852,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1749387600852,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1749474000852,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1749560400073,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1749646800072,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1749733200527,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1749819600527,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 7,
+        "failedLowPriorityCount": 14,
+        "failedMediumPriorityCount": 0,
+        "sampledAt": 1749906000770,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 27,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1749992400444,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1750078800543,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1750165200779,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1750251600517,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1750338000514,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1750424400222,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1750510800693,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1750597200693,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1750683600693,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1750770000798,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1750856400025,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1750942800476,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1751029200179,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 57,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1751115600404,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1751202000404,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1751288400549,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1751374800025,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1751461200278,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1751547600541,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1751634000183,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1751720400183,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1751806800183,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 27,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1751893200335,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1751979600518,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1752066000673,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1752152400700,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1752238800297,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1752325200958,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1752411600958,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 0,
+        "failedLowPriorityCount": 0,
+        "failedMediumPriorityCount": 0,
+        "sampledAt": 1752498000530,
+        "totalHighPriorityCount": 140,
+        "totalLowPriorityCount": 30,
+        "totalMediumPriorityCount": 24
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 27,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1752584400652,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1752670800364,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1752757200263,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 27,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1752843600834,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1752930000781,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1753016400807,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1753102800873,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1753189200721,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1753362000372,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1753448400842,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1753534800702,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1753621200702,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1753707600702,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1753794000690,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1753880400744,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1753966800074,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1754053200971,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1754139600119,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1754226000119,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1754312400119,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1754398800804,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1754485200428,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1754571600632,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1754658000838,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1754744400961,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 26,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1754830800961,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    },
+    {
+        "failedHighPriorityCount": 58,
+        "failedLowPriorityCount": 27,
+        "failedMediumPriorityCount": 16,
+        "sampledAt": 1754917200961,
+        "totalHighPriorityCount": 156,
+        "totalLowPriorityCount": 46,
+        "totalMediumPriorityCount": 28
+    }
+]

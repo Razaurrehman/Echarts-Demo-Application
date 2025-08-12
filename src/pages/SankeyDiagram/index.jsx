@@ -11,43 +11,45 @@ const SankeyDiagram = () => {
 
     // ---- 1️⃣ Build unique node list with price ----
     const priceMap = {};
+    const currencyMap = {};
     const nodesSet = new Set();
     const links = sankeyData.map(item => {
       const source = item.from;
       const target = item.to;
       const price = item.totalCost?.USD ? item.totalCost?.USD : item.totalCost?.GBP;
-
+      const currency = item.cost;
       nodesSet.add(source);
       nodesSet.add(target);
 
       // sum prices for unique "from"
       priceMap[source] =  price;
+      currencyMap[source] = currency || {};
 
       return {
         source,
         target,
-        value: price // link width
+        value: price
       };
     });
-
     const nodes = Array.from(nodesSet).map(name => ({
       name,
-      price: priceMap[name] || 0
+      price: priceMap[name] || 0,
+      currency: currencyMap[name] || ""
     }));
-
+    console.log("nodes", nodes);
     // ---- 2️⃣ Create ECharts instance ----
     chartInstance.current = echarts.init(chartRef.current);
 
     const option = {
       title: {
-        text: null,
-        left: "center"
+        text: "Sankey Diagram",
+        left: "left"
       },
       tooltip: {
         trigger: "item",
         formatter: params => {
           if (params.dataType === "node") {
-            return `${params.data.name}<br/>Price: ${params.data.price}`;
+            return `${params.data.name}<br/>Price: ${params.data.currency.USD ? "$" : "£"} ${params.data.price.toFixed(2)}`;
           }
           return `${params.data.source} → ${params.data.target}<br/>Value: ${params.data.value}`;
         }
@@ -57,19 +59,34 @@ const SankeyDiagram = () => {
           type: "sankey",
           data: nodes,
           links: links,
-          emphasis: { focus: "adjacency" },
+           emphasis: {
+            focus: "adjacency",
+            blurScope: "global"
+          },
           lineStyle: {
             color: "source",
-            curveness: 0.5
+            curveness: 0.3
           },
+          nodeWidth: 50,   // increase node width (default: 20)
+          nodeGap: 22,     // increase vertical space between nodes (default: 8)
+          left: 50,       // margin from left
+          right: 80,      // margin from right
+          top: 50,         // margin from top
+          bottom: 50,      // margin from bottom
            label: {
           show: true,
            distance: 20, // default is 5, increase for more margin
           formatter: function (params) {
-            return `${params.name} ($${params.data.price.toFixed(2)})`;
+            // console.log(params.data.name);
+            if(params.data.currency.USD){
+              return `${params.name} ( $${ params.data.price.toFixed(2)})`;
+            }
+            if(params.data.currency.GBP){
+              return `${params.name} ( £${ params.data.price.toFixed(2)})`;
+            }
           },
           color: "#000",
-          fontSize: 10
+          fontSize: 13
            },
         nodeAlign: "center" // keep sources aligned left
         }
@@ -88,7 +105,7 @@ const SankeyDiagram = () => {
     };
   }, []);
 
-  return <div ref={chartRef} style={{ width: "100%", height: "1000px" }} />;
+  return <div ref={chartRef} style={{ width: "100%", height: "1300px" }} />;
 };
 
 export default SankeyDiagram;
