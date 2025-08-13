@@ -2,77 +2,135 @@ import DynamicChart from '../../components/DynamicChart';
 import CompianceHistroyData from "../../Constants/complianceHistroyData.json"; // path to your file
 
 
+// Prepare data
 const categories = CompianceHistroyData.map(item => {
-  const date = new Date(item.sampledAt);
-  const day = String(date.getDate()).padStart(2, '0'); // 01, 02, ...
-  const month = date.toLocaleString('default', { month: 'short' }); // Aug
+  const date = new Date(item.date);
+  const day = String(date.getDate()).padStart(2, '0');
+  const month = date.toLocaleString('default', { month: 'short' });
   return `${day} ${month}`;
 });
 
-const lineChartOptions = {
+const lowPriorityData = CompianceHistroyData.map(d => d.lowFailed);
+const mediumPriorityData = CompianceHistroyData.map(d => d.mediumFailed);
+const highPriorityData = CompianceHistroyData.map(d => d.highFailed);
+const complianceScoreData = CompianceHistroyData.map(d => d.score.toFixed(2));
+
+const chartOptions = {
   title: {
     text: null,
     left: 'center'
   },
   tooltip: {
-    trigger: 'axis'
+    trigger: 'axis',
+    axisPointer: { type: 'shadow' }
   },
   legend: {
     top: 0,
-    data: [
-      'Failed High Priority',
-      'Failed Medium Priority',
-      'Failed Low Priority',
-      'Total High Priority',
-      'Total Medium Priority',
-      'Total Low Priority'
-    ]
+    data: ['High Priority', 'Medium Priority', 'Low Priority', 'Compliance Score']
   },
   xAxis: {
     type: 'category',
     data: categories,
-    axisLabel: {
-      formatter: value => value // already formatted above
+    axisLine: {
+    show: true,
+    lineStyle: {
+      color: '#333', // axis line color
+      width: 2       // axis line thickness
+      }
+    },
+    splitLine: {
+      show: true, // enable horizontal grid lines
+      lineStyle: {
+        color: '#ddd',
+        type: 'dashed'
+      }
     }
   },
-  yAxis: {
+  yAxis: [
+  {
     type: 'value',
-    name: 'Count'
+    name: 'No. of Failed Rules', // ✅ left side for bars
+    nameLocation: 'middle', // ✅ vertical center
+    nameGap: 40, // adjust spacing from axis
+    position: 'left',
+    nameTextStyle: {
+      fontSize: 16
+    },
+    axisLine: {
+    show: true,
+    lineStyle: {
+      color: '#333', // axis line color
+      width: 2       // axis line thickness
+      }
+    },
+    splitLine: {
+      show: true, // enable horizontal grid lines
+      lineStyle: {
+        color: '#ddd',
+        type: 'dashed'
+      }
+    }
   },
+  {
+    type: 'value',
+    name: 'Compliance Score', // ✅ right side for line
+    position: 'right',
+    nameLocation: 'middle', // ✅ vertical center
+    nameGap: 40, // adjust spacing from axis
+    min: 0,
+    max: 100,
+    nameTextStyle: {
+      fontSize: 16
+    }
+  }
+],
   dataZoom: [
     { type: 'slider', start: 0, end: 100 },
     { type: 'inside', start: 0, end: 100 }
   ],
   series: [
     {
-      name: 'Total High Priority',
-      type: 'line',
-      smooth: true,
-      symbol: 'none',
-      data: CompianceHistroyData.map(d => d.totalHighPriorityCount)
+      name: 'High Priority',
+      type: 'bar',
+      data: highPriorityData,
+      itemStyle: { color: '#b01323' }
     },
     {
-      name: 'Total Medium Priority',
-      type: 'line',
-      smooth: true,
-      symbol: 'none',
-      data: CompianceHistroyData.map(d => d.totalMediumPriorityCount)
+      name: 'Medium Priority',
+      type: 'bar',
+      data: mediumPriorityData,
+      itemStyle: { color: '#e99734' }
     },
     {
-      name: 'Total Low Priority',
+      name: 'Low Priority',
+      type: 'bar',
+      data: lowPriorityData,
+      itemStyle: { color: '#bead4e' }
+    },
+    {
+      name: 'Compliance Score',
       type: 'line',
+      yAxisIndex: 1,
+      data: complianceScoreData,
       smooth: true,
-      symbol: 'none',
-      data: CompianceHistroyData.map(d => d.totalLowPriorityCount)
+      symbol: "none",
+      lineStyle: {
+        color: '#666666',
+        width: 3
+      },
+      itemStyle: {
+        color: '#666666'
+      }
     }
   ]
 };
 
 
+
 const LineChart = () => (
-  <div className="container mt-4">
-    <h1>Line Chart</h1>
-    <DynamicChart id="lineChart" option={lineChartOptions} height="400px" />
+  <div className="container-fuild mt-4">
+    <h1 className='text-center mb-10'>Line Chart(Mock Data)</h1>
+    <DynamicChart id="lineChart" option={chartOptions} height="700px" />
   </div>
 );
 

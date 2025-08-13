@@ -1,22 +1,89 @@
 import DynamicChart from '../../components/DynamicChart';
 
 
+// Generate 50 mock timestamps, 1-day apart
+const startTime = Date.now(); // current time
+const mockDates = Array.from({ length: 50 }, (_, i) => startTime + i * 24 * 60 * 60 * 1000); 
+
 const multiAxisOptions = {
   title: {
     text: null,
     left: 'center'
   },
   tooltip: {
-    trigger: 'axis',
-    axisPointer: { type: 'shadow' }
-  },
+  trigger: 'axis',
+  axisPointer: { type: 'shadow' },
+  formatter: function (params) {
+    const date = new Date(Number(params[0].axisValue));
+    const formattedDate = date.toLocaleDateString('en-GB', {
+      day: '2-digit',
+      month: 'short',
+      year: 'numeric' // optional, remove if you don’t want year
+    });
+
+        let tooltipContent = `<b>${formattedDate}</b><br/>`;
+        params.forEach(p => {
+          tooltipContent += `
+            <span style="display:inline-block;margin-right:5px;
+              border-radius:10px;width:9px;height:9px;
+              background-color:${p.color}"></span>
+            ${p.seriesName}: ${p.value}
+            <br/>
+          `;
+        });
+        return tooltipContent;
+      }
+    },
   legend: {
-    data: ['USD Revenue A', 'USD Revenue B', 'EUR Revenue A', 'EUR Revenue B', 'EUR Trend'],
+    data: [
+      'USD Revenue A',
+      'USD Revenue B',
+      'EUR Revenue A',
+      'EUR Revenue B',
+      'EUR Trend',
+      'Revenue USD Trend'
+    ],
     top: 0
   },
+  dataZoom: [
+    {
+      type: 'slider',
+      show: true,
+      xAxisIndex: [0],
+      start: 0,
+      end: 20
+    },
+    {
+      type: 'inside',
+      xAxisIndex: [0]
+    }
+  ],
   xAxis: {
     type: 'category',
-    data: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+    data: mockDates, // timestamps in ms
+    axisLabel: {
+      formatter: function (value) {
+        const date = new Date(Number(value));
+        return date.toLocaleDateString('en-GB', {
+          day: '2-digit',
+          month: 'short'
+        }); // dd-MMM
+      }
+    },
+    axisLine: {
+    show: true,
+    lineStyle: {
+      color: '#333', // axis line color
+      width: 2       // axis line thickness
+      }
+    },
+    splitLine: {
+      show: true, // enable horizontal grid lines
+      lineStyle: {
+        color: '#ddd',
+        type: 'dashed'
+      }
+    }
   },
   yAxis: [
     {
@@ -25,28 +92,41 @@ const multiAxisOptions = {
       position: 'left',
       axisLabel: {
         formatter: value => `$${value}`
+      },
+      axisLine: {
+      show: true,
+      lineStyle: {
+        color: '#333', // axis line color
+        width: 2       // axis line thickness
+        }
+      },
+      splitLine: {
+        show: true, // enable horizontal grid lines
+        lineStyle: {
+          color: '#ddd',
+          type: 'dashed'
+        }
       }
     },
     {
       type: 'value',
-      name: 'EUR Trend',
+      name: 'EUR/USD Trend',
       position: 'right',
       axisLabel: {
-        formatter: value => `€${value}`
+        formatter: value => `${value}`
       }
     }
   ],
   series: [
-    // USD STACK
     {
       name: 'USD Revenue A',
       type: 'bar',
       stack: 'USD',
-      data: [140, 200, 0, 300, 660, 0, 440, 0, 560, 900, 900, 0],
+      data: Array.from({ length: 50 }, () => Math.floor(Math.random() * 1000)),
       yAxisIndex: 0,
       itemStyle: {
         color: '#1684c2',
-        borderColor: '#ffff', // border color
+        borderColor: '#ffff',
         borderWidth: 1,
         borderRadius: 5
       }
@@ -55,7 +135,7 @@ const multiAxisOptions = {
       name: 'USD Revenue B',
       type: 'bar',
       stack: 'USD',
-      data: [100, 110, 0, 300, 660, 0, 40, 0, 60, 600, 200, 100],
+      data: Array.from({ length: 50 }, () => Math.floor(Math.random() * 1000)),
       yAxisIndex: 0,
       itemStyle: {
         color: '#16c645',
@@ -64,13 +144,11 @@ const multiAxisOptions = {
         borderRadius: 5
       }
     },
-
-    // EUR STACK
     {
       name: 'EUR Revenue A',
       type: 'bar',
       stack: 'EUR',
-      data: [0, 0, 150, 300, 0, 100, 0, 550, 0, 900, 200, 200],
+      data: Array.from({ length: 50 }, () => Math.floor(Math.random() * 1000)),
       yAxisIndex: 0,
       itemStyle: {
         color: '#e69419',
@@ -83,7 +161,7 @@ const multiAxisOptions = {
       name: 'EUR Revenue B',
       type: 'bar',
       stack: 'EUR',
-      data: [800, 950, 1100, 1050, 1150, 1250, 1000, 1200, 1350, 1400, 1500, 1600],
+      data: Array.from({ length: 50 }, () => Math.floor(Math.random() * 1000)),
       yAxisIndex: 0,
       itemStyle: {
         color: '#16c645',
@@ -92,29 +170,26 @@ const multiAxisOptions = {
         borderRadius: 5
       }
     },
-
-    // EUR LINE TREND
     {
       name: 'EUR Trend',
       type: 'line',
-      data: [900, 950, 1250, 1350, 1150, 1350, 1000, 1500, 1350, 1600, 1700, 1800],
+      data: Array.from({ length: 50 }, () => Math.floor(Math.random() * 2000)),
       yAxisIndex: 1,
       symbol: 'none',
       lineStyle: {
         color: '#ff4d4f',
-        width: 2
+        width: 3
       }
     },
-
     {
       name: 'Revenue USD Trend',
       type: 'line',
-      data: [90, 450, 250, 350, 150, 330, 800, 580, 360, 600, 700,800],
+      data: Array.from({ length: 50 }, () => Math.floor(Math.random() * 2000)),
       yAxisIndex: 1,
       symbol: 'none',
       lineStyle: {
         color: '#1684c2',
-        width: 2
+        width: 3
       }
     }
   ]
@@ -122,10 +197,11 @@ const multiAxisOptions = {
 
 
 
+
 const BarChart = () => (
-  <div className="container mt-4">
-    <h1>Bar Chart</h1>
-    <DynamicChart id="multiChart" option={multiAxisOptions} height="500px" />
+  <div className="container-fuild mt-4">
+    <h1 className='text-center mb-10'>Bar Chart(Mock Data)</h1>
+    <DynamicChart id="multiChart" option={multiAxisOptions} height="700px" />
   </div>
 );
 
