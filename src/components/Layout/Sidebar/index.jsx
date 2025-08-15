@@ -18,11 +18,11 @@ const Sidebar = ({ isOpen }) => {
         <li className="nav-item">
           <Link className="nav-link" to="/line-chart">Line Chart</Link>
         </li>
-        {/* <li className="nav-item">
-          <Link className="nav-link" to="/area-chart">Area Chart</Link>
-        </li> */}
         <li className="nav-item">
           <Link className="nav-link" to="/sankey-diagram">Sankey Diagram</Link>
+        </li>
+        <li className="nav-item">
+          <Link className="nav-link" to="/tree-map">Tree Map</Link>
         </li>
       </ul>
     </nav>

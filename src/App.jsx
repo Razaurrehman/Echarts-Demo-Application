@@ -3,7 +3,7 @@ import { Routes, Route, Navigate } from "react-router-dom";
 import Header from './components/Layout/Header';
 import Sidebar from './components/Layout/Sidebar';
 import LineChart from './pages/LineChart';
-import AreaChart from './pages/AreaChart';
+import TreeMap from './pages/TreeMap';
 import SankeyDiagram from './pages/SankeyDiagram';
 import BarChart from './pages/BarChart';
 
@@ -40,7 +40,7 @@ const App = () => {
                 <Route path="/" element={<Navigate to="/bar-chart" replace />} />
                 <Route path="/bar-chart" element={<BarChart />} />
                 <Route path="/line-chart" element={<LineChart />} />
-                <Route path="/area-chart" element={<AreaChart />} />
+                <Route path="/tree-map" element={<TreeMap />} />
                 <Route path="/sankey-diagram" element={<SankeyDiagram />} />
               </Routes>
           </main>
